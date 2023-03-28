@@ -1,0 +1,3 @@
+In this work, basic past details from of the car such as model year, car deatails, owner info etc were used to predict the selling price of the car.
+
+Linear and Lasso Regression Models built for evaluation purpose.
